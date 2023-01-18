@@ -1,2 +1,26 @@
+<style>
+	{
+		blockquote
+	}
 
-/* Your CSS Code here. */
+.questions{
+
+background-color: #f8fffe; 
+	height: 50px; 
+	margin-top: 20px; 
+	padding: 15px; 
+	max-width: 600px; 
+	border-left: 8px solid green
+}
+<body>
+<div class="questions"><p>1.Who was the first female to become the governor of an Indian state?
+2.Who among first Woman to climb Mount Everest twice?
+3.Who is President of India?</p>
+
+<script type="text/javascript" src="./script.js">
+
+</div>
+</blockquote>
+</body>
+</html>
+</script>
