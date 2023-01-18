@@ -10,14 +10,15 @@ background-color: #f8fffe;
 	border-left: 8px solid green
 }
 <body>
-<div class="questions"><p>1.Who was the first female to become the governor of an Indian state?
+<div class="questions"><blockquote>
+<p>1.Who was the first female to become the governor of an Indian state?
 2.Who among first Woman to climb Mount Everest twice?
 3.Who is President of India?</p>
 
 <script type="text/javascript" src="./script.js">
 
-</div>
 </blockquote>
+</div>
 </body>
 </html>
 </script>
